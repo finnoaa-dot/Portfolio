@@ -15,10 +15,10 @@ I’m a digital UX researcher and strategist. I’m passionate about bringing th
 ## 🎯 Featured Projects
 
 ### [Choose Happy](link-to-project)
-Brief description of what this project does and the key technologies used.
+A digital strategy complete with new telecomm app to retain and delight Canadian consumers, and built on a strong foundation of multi-method research. 
 
-### [Project Name 2](link-to-project)
-Brief description of what this project does and the key technologies used.
+### [Re-Imagined Timeshare End-to-End Search and Booking Flow](link-to-project)
+Revolutionize the timeshare booking experience with a streamlined, visually captivating, and personalized solution that delights owners and drives long-term loyalty. 
 
 ### [Project Name 3](link-to-project)
 Brief description of what this project does and the key technologies used.
