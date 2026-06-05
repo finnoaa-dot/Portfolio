@@ -26,7 +26,7 @@ Brief description of what this project does and the key technologies used.
 ## Get In Touch
 
 - **Email**: aafinno@gmail.com
-- **LinkedIn**: linkedin.com/in/arielfinno (linkedin.com/in/arielfinno)
+- **LinkedIn**: linkedin.com/in/arielfinno
 
 ## Recent Work
 
