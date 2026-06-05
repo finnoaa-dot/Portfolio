@@ -23,10 +23,6 @@ Brief description of what this project does and the key technologies used.
 ### [Project Name 3](link-to-project)
 Brief description of what this project does and the key technologies used.
 
-## 📊 My GitHub Statistics
-
-![Profile Views](https://komarev.com/ghpvc/?username=finnoaa-dot&color=blueviolet)
-
 ## 📫 Get In Touch
 
 - **Email**: aafinno@gmail.com
