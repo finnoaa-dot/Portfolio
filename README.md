@@ -14,7 +14,7 @@ I’m a digital UX researcher and strategist. I’m passionate about bringing th
 
 ## 🎯 Featured Projects
 
-### [Project Name 1](link-to-project)
+### [Choose Happy](link-to-project)
 Brief description of what this project does and the key technologies used.
 
 ### [Project Name 2](link-to-project)
