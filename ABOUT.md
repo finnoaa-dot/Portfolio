@@ -7,9 +7,13 @@ I  bring 10+ years of executive research and product strategy experience. I focu
 ## Education 📚
 
 Masters in Consumer Behavior
+
 Masters in Psychology
+
 Bachelors Degree in Psychology
+
 Certified Pricing Professional (CPP)
+
 Certified Association Executive (CAE)
 
 ## Interests & Hobbies 🌴
