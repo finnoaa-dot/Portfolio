@@ -1,16 +1,16 @@
-# Hi, I'm Finnoaa 👋
+# Hi, I'm Ariel 👋
 
 Welcome to my professional portfolio! Here you'll find some of my best projects, skills, and experience.
 
 ## 🚀 About Me
 
-I'm a passionate developer committed to building quality software and continuously learning new technologies. I enjoy solving complex problems and collaborating with teams to deliver impactful solutions.
+I’m a digital UX researcher and strategist. I’m passionate about bringing the voice of the end-user into the creation of products, and research that provides value. I enjoy solving complex problems and collaborating with teams to deliver impactful solutions.
 
 ## 💼 Skills
 
-- **Languages**: [Add your languages - e.g., Python, JavaScript, Java, etc.]
-- **Technologies**: [Add frameworks, tools, platforms]
-- **Specializations**: [Your area of expertise]
+- **Languages**: R, SPSS, Stata, Excel, GSheets
+- **Technologies**: Anthropic, OpenAI, Gemini, Lyssna, UserInterviews, Lookback
+- **Specializations**: Strategic Pricing
 
 ## 🎯 Featured Projects
 
@@ -29,10 +29,8 @@ Brief description of what this project does and the key technologies used.
 
 ## 📫 Get In Touch
 
-- **Email**: [Your email]
-- **LinkedIn**: [Your LinkedIn profile]
-- **Twitter**: [Your Twitter handle]
-- **Portfolio Website**: [Your website if you have one]
+- **Email**: aafinno@gmail.com
+- **LinkedIn**: linkedin.com/in/arielfinno
 
 ## 📝 Recent Work
 
