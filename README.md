@@ -9,7 +9,7 @@ I’m a digital UX researcher and strategist. I’m passionate about bringing th
 ## Skills
 
 - **Languages**: R, SPSS, Stata, Excel, GSheets
-- **Technologies**: Anthropic, OpenAI, Gemini, Lyssna, UserInterviews, Lookback
+- **Technologies**: Anthropic, OpenAI, Google, Lyssna, UserInterviews, Lookback, Qualtircs
 - **Specializations**: Strategic Pricing and the Not-For-Profit and Professional Association sectors
 
 ## Featured Projects 
@@ -27,11 +27,11 @@ Zumba was in need of a digital partner to guide them through a mission-critical 
 ## Get In Touch
 
 - **Email**: aafinno@gmail.com
-- **LinkedIn**: linkedin.com/in/arielfinno
+- **LinkedIn**: (linkedin.com/in/arielfinno)
 
 ## Recent Work
 
-Check out my repositories below to see what I've been working on. Feel free to explore, fork, and provide feedback!
+Check out my repositories below to see what I've been working on. Feel free to explore, and provide your thoughts!
 
 ---
 
