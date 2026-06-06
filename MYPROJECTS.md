@@ -46,9 +46,9 @@ DTaaS pricing strategy effort for a Food & Beverage industry giant [Link]
 
 ## My Articles
 
-[Personalized AI Pricing: Dynamic Pricing in Disguise] (https://www.linkedin.com/feed/update/urn:li:activity:7376646611910938625/)]
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
+[Personalized AI Pricing: Dynamic Pricing in Disguise](https://www.linkedin.com/feed/update/urn:li:activity:7376646611910938625/)
+[The Enterprise AI Pricing Cycle: Why Hybrid Models Are the Future of Agentic Value](https://www.linkedin.com/pulse/enterprise-ai-pricing-cycle-why-hybrid-models-future-finno-cae-cpp-sbzke/)
+[The Price of Trust: Redefining AI Value from the End-User, Up](https://www.linkedin.com/pulse/price-trust-redefining-ai-value-from-end-user-up-a-a-finno-cae-cpp-ia1ue/)
+[Pricing Strategy Success in B2B DTaaS for the F&B Industry](https://www.linkedin.com/pulse/pricing-strategy-success-b2b-dtaas-fb-industry-case-a-a--nmdpe/?trackingId=jgfXpB4BTaucvrxJ4XLx3w%3D%3D)
 
-I'm always open to improvements and feedback!
+I'm always open to feedback!
