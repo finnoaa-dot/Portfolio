@@ -14,14 +14,14 @@ I’m a digital UX researcher and strategist. I’m passionate about bringing th
 
 ## Featured Projects 
 
-### [Choose Happy](link-to-project)
+### [Choose Happy](MYPROJECTS.md#choose-happy) 
 A digital strategy complete with new telecomm app to retain and delight Canadian consumers, and built on a strong foundation of multi-method research. 
 
-### [Re-Imagined Timeshare End-to-End Search and Booking Flow](link-to-project)
+### [Re-Imagined Timeshare End-to-End Search and Booking Flow](MYPROJECTS.md#vacation-club)
 Revolutionize the timeshare booking experience with a streamlined, visually captivating, and personalized solution that delights owners and drives long-term loyalty. 
 
-### [Bringing On-Demand, Subscription-Based Dance Fitness D2C](link-to-project)
-Zumba was in need of a digital partner to guide them through a mission-critical pivot in their business model – from offering strictly in-person studio fitness classes to adding an on-demand, subscription-based D2C platform for their community of 15 million fans.  Beginning with an in-depth strategy and research engagement, we’ve helped validate a product experience that Zumba can bring to market to continue empowering their expansive network of instructors while reaching their members spanning 180 countries around the world.
+### [Bringing On-Demand, Subscription-Based Dance Fitness D2C](MYPROJECTS.md#zumba-dance)
+Zumba was in need of a digital partner to guide them through a mission-critical pivot in their business model – from offering strictly in-person studio fitness classes to adding an on-demand, subscription-based D2C platform for their community of 15 million fans.   
 
 
 ## Get In Touch
