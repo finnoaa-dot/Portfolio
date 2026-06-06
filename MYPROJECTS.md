@@ -4,6 +4,7 @@ A curated collection of my professional and personal projects.
 
 ## Featured Projects
 
+<a id="digital-transformation"></a>
 ### 1. [Digital Transformation Elevates Customer Experience]
 - **Repository**: [Link]
 - **Methodology**: Competitive Analysis, Opt-In Panel Survey, Moderated In-Depth Interviews, Feature Desirability Survey, Experience Audit
@@ -15,6 +16,7 @@ A curated collection of my professional and personal projects.
   - 6 weeks of strategy, research and engineering
 - **My Impact**: Via in-depth interviews to discover leading end-user pain points, and a feature prioritization quantitative survey, I led the recommendation of developing Koodo Assist, an innovative AI chat platform that combines natural language understanding with generative AI capabilities.
 
+<a id="vacation-club"></a>
 ### 2. [High-End Vacation Club Website Booking Flow Redesign]
 - **Repository**: [Link]
 - **Methodology**: Benchmarking, Concept Testing, and SUM-LITE Usability Testing
@@ -27,6 +29,7 @@ A curated collection of my professional and personal projects.
 - **What I Learned**: The research findings directly influenced the design and development of the new HVC search and booking flow, ensuring that it meets the needs and preferences of multiple timeshare owner personas.  In only 8 weeks we positively impacted revenue generation, increased user experience and satisfaction, and decreased customer service calls. 
 
 
+<a id="zumba-dance"></a>
 ### 3. [Bringing On-Demand, Subscription-Based Dance Fitness D2C]
 - **Repository**: [Link]
 - **Methodology**: Competitive Analysis, Pricing Strategy including PSM, A/B Testing, Qualitative Interviews, Quantitative Online Survey, Smoke Testing
