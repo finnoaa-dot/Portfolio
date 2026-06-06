@@ -4,16 +4,16 @@ A curated collection of my professional and personal projects.
 
 ## Featured Projects
 
-### 1. [Project Title]
+### 1. [Digital transformation elevates customer experience]
 - **Repository**: [Link]
-- **Live Demo**: [Link if applicable]
-- **Description**: What this project does and why it's important
-- **Technologies**: Python, Django, PostgreSQL, React
-- **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **What I Learned**: Key takeaways from this project
+- **Methodology**: Competitive Analysis, Opt-In Panel Survey, Moderated In-Depth Interviews, Feature Desirability Survey, Experience Audit
+- **Description**: Provide faster, more holistic and consistent support while reducing operational costs for their tech-savvy prepaid mobile customer base to Koodo, a leading prepaid mobile provider.
+- **Technologies**: Figma, Lookback, Qualtrics, UserInterviews
+- **Business Impact**:
+  - 50% reduction in call volume
+  - 15% increase in customer containment rate
+  - 6 weeks of strategy, research and engineering
+- **My Impact**: Via in-depth interviews to discover leading end-user pain points, and a feature prioritization quantitative survey, I led the recommendation of developing Koodo Assist, an innovative AI chat platform that combines natural language understanding with generative AI capabilities.
 
 ### 2. [Project Title]
 - **Repository**: [Link]
