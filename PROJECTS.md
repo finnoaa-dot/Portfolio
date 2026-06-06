@@ -46,7 +46,7 @@ DTaaS pricing strategy effort for a Food & Beverage industry giant [Link]
 
 ## My Articles
 
-Personalized AI Pricing: Dynamic Pricing in Disguise [https://www.linkedin.com/feed/update/urn:li:activity:7376646611910938625/]
+[Personalized AI Pricing: Dynamic Pricing in Disguise] (https://www.linkedin.com/feed/update/urn:li:activity:7376646611910938625/)
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
