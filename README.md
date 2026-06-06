@@ -27,7 +27,7 @@ Zumba was in need of a digital partner to guide them through a mission-critical 
 ## Get In Touch
 
 - **Email**: aafinno@gmail.com
-- **LinkedIn**: (linkedin.com/in/arielfinno)
+- **LinkedIn**: [linkedin.com/in/arielfinno](linkedin.com/in/arielfinno)
 
 ## Recent Work
 
