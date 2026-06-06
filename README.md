@@ -1,4 +1,4 @@
-# Hi, I'm Ariel 📛
+# Hi, I'm Ariel 
 
 Welcome to my professional portfolio! Here you'll find some of my best projects, skills, and experience.
 
@@ -12,7 +12,7 @@ I’m a digital UX researcher and strategist. I’m passionate about bringing th
 - **Technologies**: Anthropic, OpenAI, Gemini, Lyssna, UserInterviews, Lookback
 - **Specializations**: Strategic Pricing
 
-## Featured Projects ♾
+## Featured Projects 
 
 ### [Choose Happy](link-to-project)
 A digital strategy complete with new telecomm app to retain and delight Canadian consumers, and built on a strong foundation of multi-method research. 
