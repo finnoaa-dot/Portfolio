@@ -27,26 +27,26 @@ A curated collection of my professional and personal projects.
 - **What I Learned**: The research findings directly influenced the design and development of the new HVC search and booking flow, ensuring that it meets the needs and preferences of multiple timeshare owner personas.  In only 8 weeks we positively impacted revenue generation, increased user experience and satisfaction, and decreased customer service calls. 
 
 
-### 3. [Project Title]
+### 3. [Bringing On-Demand, Subscription-Based Dance Fitness D2C]
 - **Repository**: [Link]
-- **Live Demo**: [Link if applicable]
-- **Description**: What this project does and why it's important
-- **Technologies**: Java, Spring Boot, MySQL
-- **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **What I Learned**: Key takeaways from this project
+- **Methodology**: Competitive Analysis, Pricing Strategy including PSM, A/B Testing, Qualitative Interviews, Quantitative Online Survey, Smoke Testing
+- **Description**: With a rapidly changing competitive landscape, we developed a net-new D2C app experience validated by market research and a comprehensive business case. Our proposed MVP concept was developed and launched in beta October 2023.
+- **Technologies**: Lookback, UserInterviews, Figma, Google Suite, Qualtrics, Lyssna
+- **Key Business Impact**:
+  - 300,000 app downloads in first month 
+- **What I Learned**: Beginning with an in-depth strategy and research engagement, I validated a product experience that Zumba can bring to market to continue empowering their expansive network of instructors, while reaching their members spanning 180 countries around the world.
 
 ## Other Notable Projects
 
 AI + loyalty strategy engagement for a Fintech firm [Link]
+
 A new communication and marketplace app for the agriculture industry [Link]
+
 DTaaS pricing strategy effort for a Food & Beverage industry giant [Link]
 
 ## My Articles
 
-If you'd like to contribute to any of these projects, please:
+Personalized AI Pricing: Dynamic Pricing in Disguise [https://www.linkedin.com/feed/update/urn:li:activity:7376646611910938625/]
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
