@@ -23,18 +23,15 @@ Revolutionize the timeshare booking experience with a streamlined, visually capt
 ### [Bringing On-Demand, Subscription-Based Dance Fitness D2C](MYPROJECTS.md#zumba-dance)
 Zumba was in need of a digital partner to guide them through a mission-critical pivot in their business model – from offering strictly in-person studio fitness classes to adding an on-demand, subscription-based experience.
 
-## Resume
-
-📄 **[View & Download My Resume](resume.html)** – Check out my detailed professional background, experience, and certifications.
-
 ## Get In Touch
 
 - **Email**: aafinno@gmail.com
 - **LinkedIn**: [linkedin.com/in/arielfinno](linkedin.com/in/arielfinno)
 
-## Recent Work
+## Resume
 
-Check out my repositories below to see what I've been working on. Feel free to explore, and provide your thoughts!
+📄 **[View & Download My Resume](resume.html)** – Check out my detailed professional background, experience, and certifications.
+
 
 ---
 
