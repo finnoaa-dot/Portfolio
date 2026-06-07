@@ -33,7 +33,7 @@ I'm an experienced strategist gathering and distilling consumer insights to craf
 
 ## Currently Learning
 
-[List technologies or skills you're currently developing]
+Spanish, Claude Code, and Cursor
 
 ## Fun Facts I Love 🦏
 
