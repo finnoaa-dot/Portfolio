@@ -9,7 +9,7 @@ I’m a digital UX researcher and strategist. I’m passionate about bringing th
 ## Skills
 
 - **Languages**: R, SPSS, Stata, Excel, GSheets
-- **Technologies**: Anthropic, OpenAI, Google, Lyssna, UserInterviews, Lookback, Qualtircs
+- **Technologies**: Anthropic, OpenAI, Google, Lyssna, UserInterviews, Lookback, Qualtircs, Figma
 - **Specializations**: Strategic Pricing and the Not-For-Profit and Professional Association sectors
 
 ## Featured Projects 
