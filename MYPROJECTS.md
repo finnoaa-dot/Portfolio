@@ -41,11 +41,11 @@ A curated collection of my professional and personal projects.
 
 ## Other Notable Projects
 
-AI + loyalty strategy engagement for a Fintech firm [Link]
+AI + loyalty strategy engagement for a Fintech firm 
 
-A new communication and marketplace app for the agriculture industry [Link]
+A new communication and marketplace app for the agriculture industry 
 
-DTaaS pricing strategy effort for a Food & Beverage industry giant [Link]
+DTaaS pricing strategy effort for a Food & Beverage industry giant 
 
 ## My Articles
 
