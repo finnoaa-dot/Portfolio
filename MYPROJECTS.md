@@ -18,7 +18,7 @@ A curated collection of my professional and personal projects.
 
 <a id="vacation-club"></a>
 ### 2. [High-End Vacation Club Website Booking Flow Redesign]
-- **Repository**: [Link]
+- **Repository**: [Vacation Club Search & Booking Flow Redesign](https://github.com/finnoaa-dot/Vacation-Club-Booking-Redesign)
 - **Methodology**: Benchmarking, Concept Testing, and SUM-LITE Usability Testing
 - **Description**: I aimed to create a simplified, user-friendly booking and checkout experience that caters to the diverse needs and preferences of over 10 different timeshare owner personas. The goal was to consolidate multiple booking and checkout processes into a single, streamlined flow, eliminating redundancies and improving online conversion for both owners and HVC.  
 - **Technologies**: Lookback, UserInterviews, Figma, Google Suite
