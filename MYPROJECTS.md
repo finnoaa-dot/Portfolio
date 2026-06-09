@@ -6,7 +6,7 @@ A curated collection of my professional and personal projects.
 
 <a id="digital-transformation"></a>
 ### 1. [Digital Transformation Elevates Customer Experience]
-- **Repository**: [Link]
+- **Repository**: [A Complete Canadian Telecom Digital Transformation UX Strategy](https://github.com/finnoaa-dot/Digital-Transformation-Koodo)
 - **Methodology**: Competitive Analysis, Opt-In Panel Survey, Moderated In-Depth Interviews, Feature Desirability Survey, Experience Audit
 - **Description**: Provide faster, more holistic and consistent support while reducing operational costs for their tech-savvy prepaid mobile customer base to Koodo, a leading prepaid mobile provider.
 - **Technologies**: Figma, Lookback, Qualtrics, UserInterviews
