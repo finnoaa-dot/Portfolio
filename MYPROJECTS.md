@@ -31,7 +31,7 @@ A curated collection of my professional and personal projects.
 
 <a id="zumba-dance"></a>
 ### 3. [Bringing On-Demand, Subscription-Based Dance Fitness D2C]
-- **Repository**: [Link]
+- **Repository**: [Bringing On-Demand to DTC](https://github.com/finnoaa-dot/Zumba-OnDemand-D2C)
 - **Methodology**: Competitive Analysis, Pricing Strategy including PSM, A/B Testing, Qualitative Interviews, Quantitative Online Survey, Smoke Testing
 - **Description**: With a rapidly changing competitive landscape, we developed a net-new D2C app experience validated by market research and a comprehensive business case. Our proposed MVP concept was developed and launched in beta October 2023.
 - **Technologies**: Lookback, UserInterviews, Figma, Google Suite, Qualtrics, Lyssna
